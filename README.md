@@ -11,8 +11,11 @@ Data harga Bitcoin diambil dari CoinGecko API, sehingga informasi yang ditampilk
 - Harga Bitcoin Realtime (USD)
 - Menampilkan harga Bitcoin terkini beserta persentase perubahan harga.
 
+
  # Grafik Harga Bitcoin (2023–2024)
  - Visualisasi pergerakan harga Bitcoin dalam bentuk grafik interaktif.
+![gambar](/grafik.png)
+
 
 # Menu Pencarian & Filter Data
 - Pengguna dapat memfilter data berdasarkan:
@@ -20,7 +23,7 @@ Data harga Bitcoin diambil dari CoinGecko API, sehingga informasi yang ditampilk
   Bulan (Jan, Feb, dll)
 
   Tahun (2023 atau 2024)
-
+![gambar](/menupencarian.png)
 # Dark Mode & Light Mode
 - Mendukung mode gelap dan terang untuk kenyamanan pengguna.
 
