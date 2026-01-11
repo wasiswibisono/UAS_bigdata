@@ -1,5 +1,6 @@
 # Bitcoin history
 
+![gambar](/dashboard.png)
 
 Bitcoin Chart 2023–2024 adalah aplikasi web dashboard yang menampilkan harga Bitcoin secara realtime serta visualisasi grafik historis pada rentang tahun 2023–2024. Aplikasi ini dirancang sederhana, responsif, dan informatif untuk membantu pengguna memantau pergerakan harga Bitcoin dengan cepat dan mudah.
 
