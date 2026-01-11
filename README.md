@@ -35,7 +35,7 @@ Data harga Bitcoin diambil dari CoinGecko API, sehingga informasi yang ditampilk
 # metode pemograman yang Digunakan
 Frontend:
 
-- HTML5
+- HTML
 - CSS3
 - JavaScript
 
