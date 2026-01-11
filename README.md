@@ -23,35 +23,26 @@ Data harga Bitcoin diambil dari CoinGecko API, sehingga informasi yang ditampilk
   Bulan (Jan, Feb, dll)
 
   Tahun (2023 atau 2024)
-![gambar](/menupencarian.png)
+![gambar](/pencarian.png)
 # Dark Mode & Light Mode
 - Mendukung mode gelap dan terang untuk kenyamanan pengguna.
 
 Ringkasan Data
 Menyajikan informasi singkat seperti:
 
-Teknologi yang Digunakan
-
+# metode pemograman yang Digunakan
 Frontend:
 
-HTML5
+- HTML5
+- CSS3
+- JavaScript
 
-CSS3
-
-JavaScript
-
-Library & API:
-
-Chart.js (visualisasi grafik)
-
+# Sumber data yg saya pakai:
 CoinGecko API (data harga Bitcoin)
 
-Environment:
-
+# Environment:
 Node.js
 
-Localhost (http://localhost:3000)
+# link url kami  (http://localhost:3000)
 
-Harga saat ini
 
-Perubahan harga bulanan
