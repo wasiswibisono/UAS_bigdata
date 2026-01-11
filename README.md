@@ -14,6 +14,7 @@ Data harga Bitcoin diambil dari CoinGecko API, sehingga informasi yang ditampilk
 
  # Grafik Harga Bitcoin (2023–2024)
  - Visualisasi pergerakan harga Bitcoin dalam bentuk grafik interaktif.
+
 ![gambar](/grafik.png)
 
 
@@ -23,12 +24,13 @@ Data harga Bitcoin diambil dari CoinGecko API, sehingga informasi yang ditampilk
   Bulan (Jan, Feb, dll)
 
   Tahun (2023 atau 2024)
+
 ![gambar](/pencarian.png)
+
 # Dark Mode & Light Mode
 - Mendukung mode gelap dan terang untuk kenyamanan pengguna.
 
-Ringkasan Data
-Menyajikan informasi singkat seperti:
+![gambar](/gelap.png)
 
 # metode pemograman yang Digunakan
 Frontend:
@@ -37,7 +39,7 @@ Frontend:
 - CSS3
 - JavaScript
 
-# Sumber data yg saya pakai:
+# Sumber data yg kami pakai:
 CoinGecko API (data harga Bitcoin)
 
 # Environment:
